@@ -879,17 +879,10 @@
 				</p>
             <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_06.png" n="6"/>
             <p>
-					honorary men. Femininity and excellence, it seemed, were mu-
-					tually exclusive. Thus <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/ZWDm0bsxKBV">Katherine Anne Porter</persName>:
+					honorary men. Femininity and excellence, it seemed, were mutually exclusive. Thus <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/ZWDm0bsxKBV">Katherine Anne Porter</persName>:
 				</p>
             <p>
-					If there is such a thing as a man's mind and a woman's
-					mind—and I'm sure there is—it isn't what most critics mean
-					when they talk about the two. If I show wisdom, they say
-					I have a masculine mind. If I am silly and irrelevant—and
-					Edmund Wilson says I often am—why then they say I have
-					a typically feminine mind!... But I haven't ever found it
-					unnatural to be a woman. (P. 65)
+					<q xml:id="kap01">If there is such a thing as a man's mind and a woman's mind—and I'm sure there is—it isn't what most critics mean when they talk about the two. If I show wisdom, they say I have a masculine mind. If I am silly and irrelevant—and Edmund Wilson says I often am—why then they say I have a typically feminine mind!... But I haven't ever found it unnatural to be a woman. </q>(P. 65)
 				</p>
             <p>
 					The interviewer responds with a question that is asked, in one
@@ -899,8 +892,7 @@
 					an artist, certain special problems?"
 				</p>
             <p>
-               <persName key="Forbush, Ann P. and Katherine M.D. Lobo" ref="http://vocab.getty.edu/ulan/500489128" ana="webannotation:http://temp.lincsproject.ca/ZSrlmQlGdNP">Katherine Anne Porter’s</persName> reply—“I think that’S very true and
-					very right"—is by no means the only one possible. Some, such
+               <persName key="Forbush, Ann P. and Katherine M.D. Lobo" ref="http://vocab.getty.edu/ulan/500489128" ana="webannotation:http://temp.lincsproject.ca/ZSrlmQlGdNP">Katherine Anne Porter’s</persName> reply—<q xml:id="kap03">“I think that’s very true and very right"</q>—is by no means the only one possible. Some, such
 					as Mary McCarthy, are clearly impatient with the question itself.
 					McCarthy accepts some version of the "masculine" versus the
 					"feminine" sensibility, but assigns herself firmly with the former.
