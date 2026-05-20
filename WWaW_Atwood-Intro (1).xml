@@ -1,0 +1,1534 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+	<teiHeader>
+		<fileDesc>
+			<titleStmt>
+				<title type="main">WWaW_Atwood-Intro</title>
+			</titleStmt>
+			<publicationStmt>
+				<publisher>tranScriptorium</publisher>
+			</publicationStmt>
+			<sourceDesc>
+				<bibl><publisher>TRP document creator: dkj004@bucknell.edu</publisher></bibl>
+			</sourceDesc>
+		</fileDesc>
+	</teiHeader>
+	<text>
+		<body>
+			<div>
+				<pb n="1"/>
+				<pb n="2"/>
+				<p>
+					<lb facs="#facs_2_l_1" n="N001"/>Introduction
+					<lb facs="#facs_2_l_2" n="N002"/>This new volume of <orgName key="The Paris Review" ref="http://www.wikidata.org/entity/Q3988628" ana="webannotation:http://temp.lincsproject.ca/YD11RlJTxrY">the Paris Review’s</orgName> highly praised and
+					<lb facs="#facs_2_l_3" n="N003"/>praiseworthy series of interviews with writers is a departure
+					<lb facs="#facs_2_l_4" n="N004"/>from the norm. Previous collections have mixed the genders; this
+					<lb facs="#facs_2_l_5" n="N005"/>one is unisexual. That the editors have chosen to bring together,
+					<lb facs="#facs_2_l_6" n="N006"/>within the same covers, fifteen writers as diverse as Dorothy Parker
+					<lb facs="#facs_2_l_7" n="N007"/>and <persName key="Gordimer, Nadine, 1923-2014." ref="http://viaf.org/viaf/86692340" ana="webannotation:http://temp.lincsproject.ca/gP2jNEYudBY">Nadine Gordimer</persName>, <persName key="Moore, Marianne, 1887-1972." ref="http://viaf.org/viaf/61562401" ana="webannotation:http://temp.lincsproject.ca/5YwP0OGEDJ1">Marianne Moore</persName> and Rebecca West, Isak
+					<lb facs="#facs_2_l_8" n="N008"/>Dinesen and Lillian Hellman, Mary McCarthy and <persName key="Katherine Anne Porter" ref="http://www.wikidata.org/entity/Q236958" ana="webannotation:http://temp.lincsproject.ca/hVTP5GpHRwQ">Katherine
+					<lb facs="#facs_2_l_9" n="N009"/>Anne Porter</persName>, over what, in some cases, would doubtless be their
+					<lb facs="#facs_2_l_10" n="N010"/>dead bodies, merely because they share a double-X chronosome,
+					<lb facs="#facs_2_l_11" n="N011"/>is not due to a sudden mental aberration. Rather it has been the
+					<lb facs="#facs_2_l_12" n="N012"/>result of readers' requests. Why not a gathering of women writers?
+					<lb facs="#facs_2_l_13" n="N013"/>the editor were asked. Well, why not? Which is not quite the
+					<lb facs="#facs_2_l_14" n="N014"/>same thing as why.
+				</p>
+				<p>
+					<lb facs="#facs_2_l_15" n="N001"/>To some the answer would seem self-evident: women writers
+					<lb facs="#facs_2_l_16" n="N002"/>belong together because they are different from men, and the
+					<lb facs="#facs_2_l_17" n="N003"/>writing they do is different as well and cannot be read with the
+					<lb facs="#facs_2_l_18" n="N004"/>same eyeglasses as those used for the reading of male writers. Nor
+					<lb facs="#facs_2_l_19" n="N005"/>can writing by women be read in the same way by men as it can
+					<lb facs="#facs_2_l_20" n="N006"/>by women, and vice versa. For many women, Heathcliff is a
+					<lb facs="#facs_2_l_21" n="N007"/>romantic hero; for many men, he is a posturing oaf they'd like
+					<lb facs="#facs_2_l_22" n="N008"/>to punch in the nose. For many men, The Ginger Man's Sebastian
+					<lb facs="#facs_2_l_23" n="N009"/>Dangerfield is an energy-packed rebel; for many women, he is
+					<lb facs="#facs_2_l_24" n="N010"/>an immature and tiresome wife-beater. <title key="Paradise Lost" ref="http://www.wikidata.org/entity/Q28754" ana="webannotation:http://temp.lincsproject.ca/xsVu0OhdvL6">Paradise Lost</title> reads dif-
+				</p>
+				<pb n="3"/>
+				<p>
+					<lb facs="#facs_3_l" n="N001"/>ferently when viewed by the daughters of Eve, and with <persName key="Milton, John, 1608-1674." ref="http://viaf.org/viaf/17226855" ana="webannotation:http://temp.lincsproject.ca/80kfuzKFLrX">Milton</persName>'s
+					<lb facs="#facs_3_l_1" n="N002"/>browbeaten secretarial daughters in mind; and so on down
+					<lb facs="#facs_3_l_2" n="N003"/>through the canon.
+				</p>
+				<p>
+					<lb facs="#facs_3_l_12" n="N001"/>Such gender-polarized analyses can reach beyond subject-
+					<lb facs="#facs_3_l_15" n="N002"/>matter and point of view to encompass matters of structure and
+					<lb facs="#facs_3_l_16" n="N003"/>style: are women really more subjective? do their novels really
+					<lb facs="#facs_3_l_45" n="N004"/>end with questions? Especially in this age of semiotics, gender-
+					<lb facs="#facs_3_l_46" n="N005"/>linked analysis may seek to explore attitudes towards language
+					<lb facs="#facs_3_l_47" n="N006"/>itself. Is there a distinct female écriture? Does the mother-tongue
+					<lb facs="#facs_3_l_48" n="N007"/>really belong to mothers, or is it yet one more male-shaped in-
+					<lb facs="#facs_3_l_49" n="N008"/>stitution bent, like foot-binding, on the deformation and hobbling
+					<lb facs="#facs_3_l_50" n="N009"/>of women? I have had it suggested to me, in all seriousness, that
+					<lb facs="#facs_3_l_51" n="N010"/>women ought not to write at all, since to do so is to dip one's
+					<lb facs="#facs_3_l_52" n="N011"/>hand, like Shakespeares dyer, into a medium both sullied and
+					<lb facs="#facs_3_l_53" n="N012"/>sullying. (This suggestion was not made telepathically, but in
+					<lb facs="#facs_3_l_54" n="N013"/>spoken sentences; since, for polemicists as for writers themselves,
+					<lb facs="#facs_3_l_55" n="N014"/>the alternative to language is silence.)
+				</p>
+				<p>
+					<lb facs="#facs_3_l_8" n="N001"/>I was recently on a panel—that polygonal form of discourse so
+					<lb facs="#facs_3_l_9" n="N002"/>beloved of the democratic twentieth century—consisting entirely
+					<lb facs="#facs_3_l_10" n="N003"/>of women, including <persName key="Title of Jan Morris: Public Life as Jan Morris | Orlando" ref="http://www.temp.lincsproject.ca/morrja-chapter-publiclifeasjanmorris_title" ana="webannotation:http://temp.lincsproject.ca/0UTpmLFWLkj">Jan Morris</persName>, who used to be <persName key="Name of James Morris" ref="http://id.lincsproject.ca/EzWCTogJJE1" ana="webannotation:http://temp.lincsproject.ca/s4OwXKtJS9w">James Morris</persName>,
+					<lb facs="#facs_3_l_11" n="N004"/>and Nayantara Sahgal of India. From the audience came the
+					<lb facs="#facs_3_l_13" n="N005"/>question, "How do you feel about being on a panel of women?"
+					<lb facs="#facs_3_l_14" n="N006"/>We all prevaricated. Some of us protested that we had been on
+					<lb facs="#facs_3_l_17" n="N007"/>lots of panels that included men; others said that most panels
+					<lb facs="#facs_3_l_18" n="N008"/>were male, with a woman dotted here and there for decorative
+					<lb facs="#facs_3_l_19" n="N009"/>effect, like parsley. Jan Morris said that she was in the process of
+					<lb facs="#facs_3_l_20" n="N010"/>transcending gender and was aiming at becoming a horse, to
+					<lb facs="#facs_3_l_21" n="N011"/>which Nayantara Sahgal replied that she hoped it was an English
+					<lb facs="#facs_3_l_22" n="N012"/>horse, since in some other, poorer countries, horses were not
+					<lb facs="#facs_3_l_23" n="N013"/>treated very well. Which underlined, for all of us, that there are
+					<lb facs="#facs_3_l_24" n="N014"/>categories other than male and female worth considering.
+				</p>
+				<p>
+					<lb facs="#facs_3_l_25" n="N001"/>I suppose we all should have said. "Why not?" Still, I was
+					<lb facs="#facs_3_l_26" n="N002"/>intrigued by our collective uneasiness. No woman writer wants
+					<lb facs="#facs_3_l_27" n="N003"/>to be overlooked and undervalued for being a woman, but few,
+					<lb facs="#facs_3_l_28" n="N004"/>it seems, wish to be defined solely by gender, or constrained by
+					<lb facs="#facs_3_l_29" n="N005"/>loyalties to it alone—an attitude which may puzzle, hurt or enrage
+					<lb facs="#facs_3_l_30" n="N006"/>those whose political priorities cause them to view writing as a
+				</p>
+				<pb n="4"/>
+				<p>
+					<lb facs="#facs_4_l" n="N001"/>tool, a means towards an end, rather than as a Muse who will
+					<lb facs="#facs_4_l_1" n="N002"/>desert you if you break trust. In the interview which begins this
+					<lb facs="#facs_4_l_2" n="N003"/>collection. Dorothy Parker articles the dilemma:
+				</p>
+				<p>
+					<lb facs="#facs_4_l_36" n="N001"/>I'm a feminist, and God knows I'm loyal to my sex, and
+					<lb facs="#facs_4_l_37" n="N002"/>you must remember that from my very early days, when
+					<lb facs="#facs_4_l_38" n="N003"/>this city was scarcely safe from buffaloes, I was in the struggle
+					<lb facs="#facs_4_l_39" n="N004"/>for equal rights for women. But when we paraded through
+					<lb facs="#facs_4_l_40" n="N005"/>the catcalls of men and when we chained ourselves to lamp
+					<lb facs="#facs_4_l_41" n="N006"/>posts to try to get out equality—dear child, we didn't foresee
+					<lb facs="#facs_4_l_42" n="N007"/>those female writers. (Pp. 114-115)
+				</p>
+				<p>
+					<lb facs="#facs_4_l_3" n="N001"/>Male writers may suffer grains on their single-minded dedi-
+					<lb facs="#facs_4_l_4" n="N002"/>cation to their art for reasons of class or race or nationality, but
+					<lb facs="#facs_4_l_5" n="N003"/>so far no male writer is likely to be asked to sit on a panel addressing
+					<lb facs="#facs_4_l_6" n="N004"/>itself to the special problems of the male writer, or be expected
+					<lb facs="#facs_4_l_7" n="N005"/>to support another writer simply because he happens to be a man.
+					<lb facs="#facs_4_l_8" n="N006"/>Such things are asked of women writers all the time, and it makes
+					<lb facs="#facs_4_l_9" n="N007"/>them jumpy.
+				</p>
+				<p>
+					<lb facs="#facs_4_l_12" n="N001"/>Virginia Woolf may have been right about the androgynous
+					<lb facs="#facs_4_l_13" n="N002"/>nature of the artist, but she was right also about the differences
+					<lb facs="#facs_4_l_14" n="N003"/>in social situation these androgynous artists are certain to en-
+					<lb facs="#facs_4_l_15" n="N004"/>counter. We may agree with Nadine Gordimer when she says,
+					<lb facs="#facs_4_l_30" n="N005"/>"By and large, I don't think it matters a damn what sex a writer
+					<lb facs="#facs_4_l_31" n="N006"/>is, so long as the work is that of a real writer" (p. 260), if what
+					<lb facs="#facs_4_l_32" n="N007"/>she means is that it shouldn't matter, in any true assesment of
+					<lb facs="#facs_4_l_33" n="N008"/>talent of accomplishment, but unfortunately it often has mattered,
+					<lb facs="#facs_4_l_34" n="N009"/>to other people. When Joyce Carol Oates is asked the "woman"
+					<lb facs="#facs_4_l_35" n="N010"/>question. phrased in her case as "What are the advantages of being
+					<lb facs="#facs_4_l_43" n="N011"/>a woman writer?", she makes a virtue of necessity:
+				</p>
+				<p>
+					<lb facs="#facs_4_l_44" n="N001"/>Advantages! Too many to enumerate, probably. Since,
+					<lb facs="#facs_4_l_45" n="N002"/>being a woman. I can't be taken altogether seriously by the
+					<lb facs="#facs_4_l_46" n="N003"/>sort of male critics who rank writers 1, 2. 3 in the public
+					<lb facs="#facs_4_l_10" n="N004"/>press. I am free, I suppose, to do as I like. (P. 382)
+				</p>
+				<pb n="5"/>
+				<p>
+					<lb facs="#facs_5_l" n="N001"/>Joan Didion is asked the same question in its negative form—
+					<lb facs="#facs_5_l_1" n="N002"/>"disadvantages" instead of "advantages"—and also focuses on so-
+					<lb facs="#facs_5_l_2" n="N003"/>cial differences, social acceptance and role:
+				</p>
+				<p>
+					<lb facs="#facs_5_l_36" n="N001"/>When I was starting to write—in the late fifties, early
+					<lb facs="#facs_5_l_37" n="N002"/>sixties—there was a kind of social tradition in which male
+					<lb facs="#facs_5_l_38" n="N003"/>novelists could operate. Hard drinkers, bad livers. Wives,
+					<lb facs="#facs_5_l_39" n="N004"/>wars, big fish, <placeName key="Africa" ref="http://www.wikidata.org/entity/Q15" ana="webannotation:http://temp.lincsproject.ca/TpAOSzxYBOB">Africa</placeName>, Paris, no second acts. A man who
+					<lb facs="#facs_5_l_40" n="N005"/>wrote novels had a role in the world, and he could play
+					<lb facs="#facs_5_l_41" n="N006"/>that role and do whatever he wanted behind it. A woman
+					<lb facs="#facs_5_l_42" n="N007"/>who wrote novels had no particular role. Women who wrote
+					<lb facs="#facs_5_l_43" n="N008"/>novels were quite often perceived as invalids. Carson
+					<lb facs="#facs_5_l_44" n="N009"/>McCullers, <persName key="Bowles, Jane, 1917-1973" ref="http://viaf.org/viaf/17241497" ana="webannotation:http://temp.lincsproject.ca/KdIk8OSMDCh">Jane Bowles</persName>. <persName key="O'Connor, Flannery, 1925-1964." ref="http://viaf.org/viaf/17227472" ana="webannotation:http://temp.lincsproject.ca/dl337UQLJCS">Flannery O'Connor</persName> of course.
+					<lb facs="#facs_5_l_45" n="N010"/>Novels by women tended to be described, even by their
+					<lb facs="#facs_5_l_46" n="N011"/>publishers, as sensitive. I'm not sure this is so true anymore,
+					<lb facs="#facs_5_l_47" n="N012"/>but it certainly was at the time, and I didn't much like it.
+					<lb facs="#facs_5_l_48" n="N013"/>I dealt with it the same way I deal with everything. I just
+					<lb facs="#facs_5_l_49" n="N014"/>tended my own garden, didn't pay much attention, be-
+					<lb facs="#facs_5_l_50" n="N015"/>haved—I suppose—deviously. (Pp. 324-325)
+				</p>
+				<p>
+					<lb facs="#facs_5_l_3" n="N001"/>I think of Marianne Moore, living decorously with her mother
+					<lb facs="#facs_5_l_4" n="N002"/>and her "dark" furniture, her height of social rebellion the cou-
+					<lb facs="#facs_5_l_5" n="N003"/>rageous ignoring of the need for chaperones at Village literary
+					<lb facs="#facs_5_l_6" n="N004"/>parties, and wonder how many male writers could have lived such
+					<lb facs="#facs_5_l_7" n="N005"/>a circumscribed life and survived the image.
+				</p>
+				<p>
+					<lb facs="#facs_5_l_8" n="N001"/>Not least among perceived social differences is the difficulty
+					<lb facs="#facs_5_l_9" n="N002"/>woman writers have experienced in being taken "altogether
+					<lb facs="#facs_5_l_10" n="N003"/>seriously" as legitimate artists. <persName key="Pound, Ezra, 1885-1972." ref="http://viaf.org/viaf/24606774" ana="webannotation:http://temp.lincsproject.ca/0be3u8zyKkx">Ezra Pound</persName>, writing in the second
+					<lb facs="#facs_5_l_11" n="N004"/>decade of this century, spoke for many male authors and critics
+					<lb facs="#facs_5_l_21" n="N005"/>before and since: "I distrust the 'female artist.' . . . Not wildly
+					<lb facs="#facs_5_l_14" n="N006"/>anti-feminist we are yet to be convinced that any woman ever
+					<lb facs="#facs_5_l_15" n="N007"/>invented anything in the arts." (Carpenter, A Serious Character,
+					<lb facs="#facs_5_l_16" n="N008"/>Houghton Mifflin, 1988, p. 239.) Cognate with this view of
+					<lb facs="#facs_5_l_17" n="N009"/>writing as a male preserve has been the image of women writers
+					<lb facs="#facs_5_l_18" n="N010"/>as lightweight puffballs, neurotic freaks suffering from what Edna
+					<lb facs="#facs_5_l_19" n="N011"/>O'Brien calls "a double dose of masochism: the masochisim of
+					<lb facs="#facs_5_l_20" n="N012"/>the woman and that of the artist" (p. 342), or, if approved of, as
+				</p>
+				<pb n="6"/>
+				<p>
+					<lb facs="#facs_6_l" n="N001"/>honorary men. Femininity and excellence, it seemed, were mu-
+					<lb facs="#facs_6_l_1" n="N002"/>tually exclusive. Thus <persName key="Porter, Katherine Anne, 1890-1980." ref="http://viaf.org/viaf/56620604" ana="webannotation:http://temp.lincsproject.ca/ZWDm0bsxKBV">Katherine Anne Porter</persName>:
+				</p>
+				<p>
+					<lb facs="#facs_6_l_34" n="N001"/>If there is such a thing as a man's mind and a woman's
+					<lb facs="#facs_6_l_35" n="N002"/>mind—and I'm sure there is—it isn't what most critics mean
+					<lb facs="#facs_6_l_36" n="N003"/>when they talk about the two. If I show wisdom, they say
+					<lb facs="#facs_6_l_37" n="N004"/>I have a masculine mind. If I am silly and irrelevant—and
+					<lb facs="#facs_6_l_38" n="N005"/>Edmund Wilson says I often am—why then they say I have
+					<lb facs="#facs_6_l_39" n="N006"/>a typically feminine mind!... But I haven't ever found it
+					<lb facs="#facs_6_l_40" n="N007"/>unnatural to be a woman. (P. 65)
+				</p>
+				<p>
+					<lb facs="#facs_6_l_2" n="N001"/>The interviewer responds with a question that is asked, in one
+					<lb facs="#facs_6_l_3" n="N002"/>form or another, not only of almost every woman included in
+					<lb facs="#facs_6_l_4" n="N003"/>this book, but of almost every woman writer ever interviewed:
+					<lb facs="#facs_6_l_5" n="N004"/>"But haven't you found that being a woman presented to you, as
+					<lb facs="#facs_6_l_6" n="N005"/>an artist, certain special problems?"
+				</p>
+				<p>
+					<lb facs="#facs_6_l_27" n="N001"/><persName key="Forbush, Ann P. and Katherine M.D. Lobo" ref="http://vocab.getty.edu/ulan/500489128" ana="webannotation:http://temp.lincsproject.ca/ZSrlmQlGdNP">Katherine Anne Porter’s</persName> reply—“I think that’S very true and
+					<lb facs="#facs_6_l_28" n="N002"/>very right"—is by no means the only one possible. Some, such
+					<lb facs="#facs_6_l_29" n="N003"/>as Mary McCarthy, are clearly impatient with the question itself.
+					<lb facs="#facs_6_l_30" n="N004"/>McCarthy accepts some version of the "masculine" versus the
+					<lb facs="#facs_6_l_31" n="N005"/>"feminine" sensibility, but assigns herself firmly with the former.
+				</p>
+				<p>
+					<lb facs="#facs_6_l_7" n="N001"/>INTERVIEWER: What do you think of women writers, or
+					<lb facs="#facs_6_l_8" n="N002"/>do you think the category "woman writer" should not be
+					<lb facs="#facs_6_l_9" n="N003"/>made?
+				</p>
+				<p>
+					<lb facs="#facs_6_l_22" n="N001"/>MCCARTHY: Some women writers make it. I mean, there's
+					<lb facs="#facs_6_l_23" n="N002"/>a certain kind of woman writer who's a capital W, capital
+					<lb facs="#facs_6_l_24" n="N003"/>W. Virginia Woolf certainly was one, and Katherine Mans-
+					<lb facs="#facs_6_l_25" n="N004"/>field was one, and Elizabeth Bowen is one. Katherine Anne
+					<lb facs="#facs_6_l_26" n="N005"/>Porter? Don't think she really is—I mean, her writing is
+					<lb facs="#facs_6_l_32" n="N006"/>certainly very feminine, but I would say that there wasn't
+					<lb facs="#facs_6_l_33" n="N007"/>this “WW” business in Katherine Anne Porter. Who else?
+					<lb facs="#facs_6_l_41" n="N008"/>There's Eudora Welty, who's certainly not a "Woman
+					<lb facs="#facs_6_l_42" n="N009"/>Winter," though she's become one lately.
+				</p>
+				<p>
+					<lb facs="#facs_6_l_10" n="N001"/>INTERVIEWER: What is it that happens to make this
+					<lb facs="#facs_6_l_11" n="N002"/>change?
+				</p>
+				<p>
+					<lb facs="#facs_6_l_12" n="N001"/>MCCARTHY: I think they become interested in décor. You
+				</p>
+				<pb n="7"/>
+				<p>
+					<lb facs="#facs_7_l" n="N001"/>notice the change in Elizabeth Bowen. Her early work is
+					<lb facs="#facs_7_l_1" n="N002"/>much more masculine. Her later work has much more
+					<lb facs="#facs_7_l_2" n="N003"/>drapery in it . . . I was going to write a piece at some point
+					<lb facs="#facs_7_l_3" n="N004"/>about this called "Sense and Sensibility," dividing women
+					<lb facs="#facs_7_l_4" n="N005"/>writers into these two. I am for the ones who represent
+					<lb facs="#facs_7_l_5" n="N006"/>sense ... (Pp. 189-190)
+				</p>
+				<p>
+					<lb facs="#facs_7_l_35" n="N001"/>Cynthia Ozick goes much farther; she refuses such dichotomies
+					<lb facs="#facs_7_l_36" n="N002"/>altogether:
+				</p>
+				<p>
+					<lb facs="#facs_7_l_7" n="N001"/>INTERVIEWER: you have written about the writer as
+					<lb facs="#facs_7_l_8" n="N002"/>being genderless and living in the world of "as if" rather
+					<lb facs="#facs_7_l_9" n="N003"/>than being restrained by her . . .
+				</p>
+				<p>
+					<lb facs="#facs_7_l_6" n="N001"/>OZICK: Parochial temporary commitments. . . . A writer
+					<lb facs="#facs_7_l_33" n="N002"/>is someone born with a gift. An athlete can run. A painter
+					<lb facs="#facs_7_l_34" n="N003"/>can paint. A writer has a facility with words. A good writer
+					<lb facs="#facs_7_l_37" n="N004"/>can also think. Isn't that enough to define a writer by?
+					<lb facs="#facs_7_l_38" n="N005"/>(P. 304)
+				</p>
+				<p>
+					<lb facs="#facs_7_l_10" n="N001"/>Cynthia Ozick also says that the biographers of Wharton and
+					<lb facs="#facs_7_l_11" n="N002"/>Woolf "missed the writer" in their subjects, and this is probably
+					<lb facs="#facs_7_l_12" n="N003"/>easier to do with women than with men. There is, still, a sort of
+					<lb facs="#facs_7_l_13" n="N004"/>trained-dog fascination with the idea of women writers—not that
+					<lb facs="#facs_7_l_14" n="N005"/>the thing is done well, but that it is done at all, by a creature
+					<lb facs="#facs_7_l_15" n="N006"/>that is not supposed to possess such capabilities. And so a biog-
+					<lb facs="#facs_7_l_16" n="N007"/>rapher may well focus on the woman, on gossip and sexual detail
+					<lb facs="#facs_7_l_17" n="N008"/>and domestic arrangements and political involvement, to the ex-
+					<lb facs="#facs_7_l_18" n="N009"/>clusion of the artist. But it is impossible to read any of the in-
+					<lb facs="#facs_7_l_19" n="N010"/>terviews in this book and "miss the writer." What these writers
+					<lb facs="#facs_7_l_20" n="N011"/>have in common is not their diverse responses to the category
+					<lb facs="#facs_7_l_21" n="N012"/>"woman writer," but their shared passion towards the category
+					<lb facs="#facs_7_l_22" n="N013"/>"writer."
+				</p>
+				<p>
+					<lb facs="#facs_7_l_23" n="N001"/>Reading through these interviews, I was struck again and again
+					<lb facs="#facs_7_l_24" n="N002"/>by the intensity of this passion: the commitment to craft, the
+					<lb facs="#facs_7_l_25" n="N003"/>informed admiration for the work of other writers from whom
+					<lb facs="#facs_7_l_26" n="N004"/>they have learned, the insistence on the importance, not of what
+					<lb facs="#facs_7_l_27" n="N005"/>they themselves have done, but on what has been and can be
+				</p>
+				<pb n="8"/>
+				<p>
+					<lb facs="#facs_8_l_1" n="N001"/>done through the art itself. In no other art, except painting,
+					<lb facs="#facs_8_l_2" n="N002"/>perhaps, is the relationship of creation to creator so complex and
+					<lb facs="#facs_8_l_3" n="N003"/>personal and thus so potentially damaging to self-esteem: if you
+					<lb facs="#facs_8_l_4" n="N004"/>fail, you fail alone. The dancer realize someone else's dance,
+					<lb facs="#facs_8_l_5" n="N005"/>the writer her own. The relationship of any writer towards a
+					<lb facs="#facs_8_l_6" n="N006"/>vocation so exacting in its specificity, so demanding of love and
+					<lb facs="#facs_8_l_7" n="N007"/>energy and time, so resistant to all efforts to define its essence or
+					<lb facs="#facs_8_l_8" n="N008"/>to categorize its best effects, is bound to be an edgy one, and in
+					<lb facs="#facs_8_l_9" n="N009"/>these conversations the edginess shows through. Some disclaim
+					<lb facs="#facs_8_l_10" n="N010"/>ego, remarkable in a collection of such strong, assertive, individ-
+					<lb facs="#facs_8_l_11" n="N011"/>ual voices; others keep secrets; others fence with their considerable
+					<lb facs="#facs_8_l_12" n="N012"/>intelligence; others protect themselves with wit. Some recom-
+					<lb facs="#facs_8_l_13" n="N013"/>mend objectivity, McCarthy's "sense"; others, like Edna O'Brien,
+					<lb facs="#facs_8_l_14" n="N014"/>speak of necessary demons. It would be a brave person who would
+					<lb facs="#facs_8_l_15" n="N015"/>try to stuff these wonderful and various talents into one tidy box
+					<lb facs="#facs_8_l_16" n="N016"/>labelled “WW,” and expect that acronym to be definitive. Despite
+					<lb facs="#facs_8_l_17" n="N017"/>the title of this book, the lab I should probably read, “WWAAW,"
+					<lb facs="#facs_8_l_18" n="N018"/>Writers Who Are Also Women.
+				</p>
+				<p>
+					<lb facs="#facs_8_l_19" n="N001"/>This is not the only collection of such writers that could be
+					<lb facs="#facs_8_l_20" n="N002"/>made. It is limited in scope by the writers actually interviewed
+					<lb facs="#facs_8_l_21" n="N003"/>to date by The Paris Review. Thus, although there are writers
+					<lb facs="#facs_8_l_22" n="N004"/>from the United States, Ireland, England, Denmark, and South
+					<lb facs="#facs_8_l_23" n="N005"/>Africa, there are none here from, for instance, India or Australia
+					<lb facs="#facs_8_l_24" n="N006"/>or Canada or Latin America: <persName key="Munro, Alice, 1931-2024." ref="http://viaf.org/viaf/68944521" ana="webannotation:http://temp.lincsproject.ca/Ye4EqIrTpFl">no Alice Munro</persName>, no Anita Desai,
+					<lb facs="#facs_8_l_25" n="N007"/>no Isabel Allende. As this assemblage is unisexual, so is it uni-
+					<lb facs="#facs_8_l_26" n="N008"/>colored: thus far no Toni Morrison, no Alice Walker, no Louise
+					<lb facs="#facs_8_l_27" n="N009"/>Erdrich. Nor are there many writers who are known for an explicit
+					<lb facs="#facs_8_l_28" n="N010"/>and self-aware examination of the more colonial features of the
+					<lb facs="#facs_8_l_29" n="N011"/>relationships between men as a group and women: no Marilyn
+					<lb facs="#facs_8_l_30" n="N012"/>French, no Marge Piercey, no Fay Weldon, no Adrienne Rich,
+					<lb facs="#facs_8_l_31" n="N013"/>no Judith Rossner. Some of these omissions may be set down to
+					<lb facs="#facs_8_l_32" n="N014"/>the slowness characteristic of the mills of the gods and the editor
+					<lb facs="#facs_8_l_33" n="N015"/>of small magazines, a slowness which may account, too, for the
+					<lb facs="#facs_8_l_34" n="N016"/>retrospective slant of this volume. But looking back over the
+					<lb facs="#facs_8_l_35" n="N017"/>territory to see what has been done and, especially, said before,
+					<lb facs="#facs_8_l_36" n="N018"/>is, in the case of writing, part of the territory.
+				</p>
+				<pb n="9"/>
+				<p>
+					<lb facs="#facs_9_l_1" n="N001"/>To write is a solitary and singular act; to do it superbly, as all
+					<lb facs="#facs_9_l_2" n="N002"/>of these writers have done, is a blessing. Despite everything that
+					<lb facs="#facs_9_l_3" n="N003"/>gets said about the suffering and panic and horror of being a
+					<lb facs="#facs_9_l_4" n="N004"/>writer, the final impression left by these remarkable voices is one
+					<lb facs="#facs_9_l_5" n="N005"/>of thankfulness, of humility in the face of what has been given.
+					<lb facs="#facs_9_l_6" n="N006"/>From Joyce Carol Oates, one of the youngest writers in this group:
+				</p>
+				<p>
+					<lb facs="#facs_9_l_10" n="N001"/>I take seriously Flaubert's statement must love
+					<lb facs="#facs_9_l_11" n="N002"/>one another in our art as the mystics love another in
+					<lb facs="#facs_9_l_12" n="N003"/>God. By honoring one another's creation we honor some-
+					<lb facs="#facs_9_l_13" n="N004"/>thing that deeply connected us all, and beyond us
+					<lb facs="#facs_9_l_14" n="N005"/>(Pp. 383-384)
+				</p>
+				<p>
+					<lb facs="#facs_9_l" n="N001"/>And from Dorothy Parker, one of the oldest:
+				</p>
+				<p>
+					<lb facs="#facs_9_l_8" n="N001"/>I want so much to write well, though I know I don't . . .
+					<lb facs="#facs_9_l_9" n="N002"/>But during and at the end of my life, I will adore those who
+					<lb facs="#facs_9_l_18" n="N003"/>have. (P. 119)
+				</p>
+				<p>
+					<lb facs="#facs_9_l_19" n="N001"/>MARGARET ATWOOD, 1988
+				</p>
+			</div>
+		</body>
+	</text>
+
+	<standOff type="annotation">
+		
+<xenoData>
+			
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/YD11RlJTxrY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/YD11RlJTxrY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:08:07.808Z",
+    "creator": {
+        "id": "https://github.com/djakacki",
+        "type": "crm:E21_Person",
+        "name": "Diane Jakacki"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/ItKVC6DI7hC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/ItKVC6DI7hC/selector/textPosition/6IVdkliIVqO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 65,
+                "end": 83,
+                "refinedBy": {
+                    "id": "/target/ItKVC6DI7hC/selector/textQuote/hwXHqRfYOaU",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "the Paris Review’s",
+                    "prefix": "\n\t\t\n\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tIntroduction\n\t\t\t\t\tThis new volume of",
+                    "suffix": "highly praised and\n\t\t\t\t\tpraiseworthy series of interviews with writers is a departure\n\t\t\t\t\tfrom the norm"
+                }
+            },
+            {
+                "id": "/target/ItKVC6DI7hC/selector/css/cXCGqTj27CW",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/YD11RlJTxrY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q3988628",
+        "type": "crm:E74_Group",
+        "label": "The Paris Review",
+        "description": "New York-based English-language literary magazine"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/gP2jNEYudBY">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/gP2jNEYudBY",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:41:36.166Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/i2Un43qHQaW",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/i2Un43qHQaW/selector/textPosition/MST6nUO38Lh",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 394,
+                "end": 409,
+                "refinedBy": {
+                    "id": "/target/i2Un43qHQaW/selector/textQuote/3YDnSRfCvdP",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Nadine Gordimer",
+                    "prefix": " That the editors have chosen to bring together,\n\t\t\t\t\twithin the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand",
+                    "suffix": " Marianne Moore and Rebecca West, Isak\n\t\t\t\t\tDinesen and Lillian Hellman, Mary McCarthy and Katherine\n\t\t\t\t\tAnne Porter, over what, in some cases, would doubtless be their\n\t\t\t\t\tdead bodies, merely because they share a double-X chronosome,\n\t\t\t\t\tis not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/i2Un43qHQaW/selector/css/RjgSDMueMFa",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/gP2jNEYudBY]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/86692340",
+        "type": "crm:E21_Person",
+        "label": "Gordimer, Nadine, 1923-2014.",
+        "description": "Gordimer, Nadine"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/hVTP5GpHRwQ">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/hVTP5GpHRwQ",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:44:48.602Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/iskK1kc56xj",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/iskK1kc56xj/selector/textPosition/aZZSGArckny",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 501,
+                "end": 527,
+                "refinedBy": {
+                    "id": "/target/iskK1kc56xj/selector/textQuote/u0re92vt8jq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Katherine\n\t\t\t\t\tAnne Porter",
+                    "prefix": " That the editors have chosen to bring together,\n\t\t\t\t\twithin the same covers, fifteen writers as diverse as Dorothy Parker\n\t\t\t\t\tand Nadine Gordimer, Marianne Moore and Rebecca West, Isak\n\t\t\t\t\tDinesen and Lillian Hellman, Mary McCarthy and",
+                    "suffix": " over what, in some cases, would doubtless be their\n\t\t\t\t\tdead bodies, merely because they share a double-X chronosome,\n\t\t\t\t\tis not due to a sudden mental aberration"
+                }
+            },
+            {
+                "id": "/target/iskK1kc56xj/selector/css/mw2f1kr5bHT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/CLnRyh9T8OJ]"
+            },
+            {
+                "id": "/target/iskK1kc56xj/selector/css/SkVNgYw9KGT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/F4mPh5Y7C78]"
+            },
+            {
+                "id": "/target/iskK1kc56xj/selector/css/mtdGKhO6OZJ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/hVTP5GpHRwQ]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q236958",
+        "type": "crm:E21_Person",
+        "label": "Katherine Anne Porter",
+        "description": "American journalist, essayist, short story writer, novelist, and political activist (1890–1980)"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ZWDm0bsxKBV">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ZWDm0bsxKBV",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:39:25.515Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/zPC9PCMgP35",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/zPC9PCMgP35/selector/textPosition/9Ojz7lX4NoT",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 8562,
+                "end": 8583,
+                "refinedBy": {
+                    "id": "/target/zPC9PCMgP35/selector/textQuote/zJ88zbR23eA",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Katherine Anne Porter",
+                    "prefix": " Thus",
+                    "suffix": "\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tIf there is such a thing as a man's mind and a woman's\n\t\t\t\t\tmind—and I'm sure there is—it isn't what most critics mean\n\t\t\t\t\twhen they talk about the two"
+                }
+            },
+            {
+                "id": "/target/zPC9PCMgP35/selector/css/gPs28CxurCQ",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ZWDm0bsxKBV]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/56620604",
+        "type": "crm:E21_Person",
+        "label": "Porter, Katherine Anne, 1890-1980.",
+        "description": "Porter, Katherine Anne"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/xsVu0OhdvL6">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/xsVu0OhdvL6",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:24:47.406Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/r1WZN6GEeQC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/r1WZN6GEeQC/selector/textPosition/m8UbpUvPvrj",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 1535,
+                "end": 1548,
+                "refinedBy": {
+                    "id": "/target/r1WZN6GEeQC/selector/textQuote/5D8ywU3TFCl",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Paradise Lost",
+                    "prefix": "",
+                    "suffix": "reads dif-\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tferently when viewed by the daughters of Eve, and with Milton's\n\t\t\t\t\tbrowbeaten secretarial daughters in mind; and so on down\n\t\t\t\t\tthrough the canon"
+                }
+            },
+            {
+                "id": "/target/r1WZN6GEeQC/selector/css/qT3UP7m9mxt",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/xsVu0OhdvL6]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q28754",
+        "type": "frbroo:F1",
+        "label": "Paradise Lost",
+        "description": "epic poem by John Milton"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0UTpmLFWLkj">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0UTpmLFWLkj",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:45:36.519Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/NvqSZj86rNQ",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/NvqSZj86rNQ/selector/textPosition/CkJlBuxarr3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2855,
+                "end": 2865,
+                "refinedBy": {
+                    "id": "/target/NvqSZj86rNQ/selector/textQuote/YuFsNWzz4i3",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jan Morris",
+                    "prefix": ")\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tI was recently on a panel—that polygonal form of discourse so\n\t\t\t\t\tbeloved of the democratic twentieth century—consisting entirely\n\t\t\t\t\tof women, including",
+                    "suffix": " who used to be James Morris,\n\t\t\t\t\tand Nayantara Sahgal of India"
+                }
+            },
+            {
+                "id": "/target/NvqSZj86rNQ/selector/css/tqwMCcTWIXf",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0UTpmLFWLkj]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.temp.lincsproject.ca/morrja-chapter-publiclifeasjanmorris_title",
+        "type": "crm:E21_Person",
+        "label": "Title of Jan Morris: Public Life as Jan Morris | Orlando",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/s4OwXKtJS9w">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/s4OwXKtJS9w",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:45:57.345Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/b5hVu4fa2XC",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/b5hVu4fa2XC/selector/textPosition/CuU6GtiSaux",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 2882,
+                "end": 2894,
+                "refinedBy": {
+                    "id": "/target/b5hVu4fa2XC/selector/textQuote/De8IZupwMRV",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "James Morris",
+                    "prefix": ")\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tI was recently on a panel—that polygonal form of discourse so\n\t\t\t\t\tbeloved of the democratic twentieth century—consisting entirely\n\t\t\t\t\tof women, including Jan Morris, who used to be",
+                    "suffix": "\n\t\t\t\t\tand Nayantara Sahgal of India"
+                }
+            },
+            {
+                "id": "/target/b5hVu4fa2XC/selector/css/tZ5tasKIXLT",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/s4OwXKtJS9w]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://id.lincsproject.ca/EzWCTogJJE1",
+        "type": "crm:E21_Person",
+        "label": "Name of James Morris",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/TpAOSzxYBOB">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/TpAOSzxYBOB",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:26:27.855Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/vRMnXU1X4fG",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/vRMnXU1X4fG/selector/textPosition/qCHM4Mg75iV",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6580,
+                "end": 6586,
+                "refinedBy": {
+                    "id": "/target/vRMnXU1X4fG/selector/textQuote/5FDXdG8fZjB",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Africa",
+                    "prefix": " Wives,\n\t\t\t\t\twars, big fish,",
+                    "suffix": " Paris, no second acts"
+                }
+            },
+            {
+                "id": "/target/vRMnXU1X4fG/selector/css/hasOyV74rmm",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/TpAOSzxYBOB]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://www.wikidata.org/entity/Q15",
+        "type": "crm:E53_Place",
+        "label": "Africa",
+        "description": "continent"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/KdIk8OSMDCh">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/KdIk8OSMDCh",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:37:48.269Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/Rdz2KB0K7fh",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/Rdz2KB0K7fh/selector/textPosition/LO369l2L6Zs",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6879,
+                "end": 6890,
+                "refinedBy": {
+                    "id": "/target/Rdz2KB0K7fh/selector/textQuote/rrppb0WR7P4",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Jane Bowles",
+                    "prefix": " Carson\n\t\t\t\t\tMcCullers,",
+                    "suffix": " Flannery O'Connor of course"
+                }
+            },
+            {
+                "id": "/target/Rdz2KB0K7fh/selector/css/wSKZFGOVNsR",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/KdIk8OSMDCh]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/17241497",
+        "type": "crm:E21_Person",
+        "label": "Bowles, Jane, 1917-1973",
+        "description": "Bowles, Jane Auer, 1917-1973"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/dl337UQLJCS">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/dl337UQLJCS",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:38:19.580Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/gdbCUKOahEm",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/gdbCUKOahEm/selector/textPosition/6mlTQeEhdau",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 6892,
+                "end": 6909,
+                "refinedBy": {
+                    "id": "/target/gdbCUKOahEm/selector/textQuote/0AXJshRK4Pq",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Flannery O'Connor",
+                    "prefix": "",
+                    "suffix": "of course"
+                }
+            },
+            {
+                "id": "/target/gdbCUKOahEm/selector/css/YjtM3qQR1fw",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/dl337UQLJCS]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/17227472",
+        "type": "crm:E21_Person",
+        "label": "O'Connor, Flannery, 1925-1964.",
+        "description": "Oconnor, Flannery"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/0be3u8zyKkx">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/0be3u8zyKkx",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:38:27.064Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/8pIRxIb62Dc",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/8pIRxIb62Dc/selector/textPosition/MNzhyQKnOp3",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 7799,
+                "end": 7809,
+                "refinedBy": {
+                    "id": "/target/8pIRxIb62Dc/selector/textQuote/pYErAebV1TT",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Ezra Pound",
+                    "prefix": "",
+                    "suffix": " writing in the second\n\t\t\t\t\tdecade of this century, spoke for many male authors and critics\n\t\t\t\t\tbefore and since: \"I distrust the 'female artist"
+                }
+            },
+            {
+                "id": "/target/8pIRxIb62Dc/selector/css/xLMLHYmWI64",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/0be3u8zyKkx]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/24606774",
+        "type": "crm:E21_Person",
+        "label": "Pound, Ezra, 1885-1972.",
+        "description": "Pound, Ezra"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/ZSrlmQlGdNP">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/ZSrlmQlGdNP",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:39:13.898Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/DbboKq0RydD",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/DbboKq0RydD/selector/textPosition/NE7BBQHJvYO",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 9341,
+                "end": 9364,
+                "refinedBy": {
+                    "id": "/target/DbboKq0RydD/selector/textQuote/yMzfzseW7MH",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "Katherine Anne Porter’s",
+                    "prefix": " 65)\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\tThe interviewer responds with a question that is asked, in one\n\t\t\t\t\tform or another, not only of almost every woman included in\n\t\t\t\t\tthis book, but of almost every woman writer ever interviewed:\n\t\t\t\t\t\"But haven't you found that being a woman presented to you, as\n\t\t\t\t\tan artist, certain special problems?\"\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t",
+                    "suffix": "reply—“I think that’S very true and\n\t\t\t\t\tvery right\"—is by no means the only one possible"
+                }
+            },
+            {
+                "id": "/target/DbboKq0RydD/selector/css/nWkXBNpiJzs",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/ZSrlmQlGdNP]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://vocab.getty.edu/ulan/500489128",
+        "type": "crm:E21_Person",
+        "label": "Forbush, Ann P. and Katherine M.D. Lobo",
+        "description": ""
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+				
+<rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/" rdf:about="http://temp.lincsproject.ca/Ye4EqIrTpFl">
+<![CDATA[{
+    "@context": [
+        "http://www.w3.org/ns/anno.jsonld",
+        "https://www.cidoc-crm.org/cidoc-crm/json-ld_context.jsonld",
+        "https://wa.lincsproject.ca/v1/ns/anno.jsonld"
+    ],
+    "id": "http://temp.lincsproject.ca/Ye4EqIrTpFl",
+    "type": [
+        "Annotation",
+        "crm:E33_Linguistic_Object"
+    ],
+    "motivation": "oa:identifying",
+    "created": "2026-05-20T14:48:20.381Z",
+    "creator": {
+        "id": "anonymous",
+        "type": "crm:E21_Person",
+        "name": "anonymous"
+    },
+    "generator": {
+        "id": "https://nerve.lincsproject.ca",
+        "type": [
+            "Software",
+            "crm:E73_Information_Object"
+        ],
+        "P16_used_specific_object": "https://nerve.lincsproject.ca",
+        "name": "NERVE",
+        "softwareVersion": "0.2.1"
+    },
+    "target": {
+        "id": "/target/BK5P6gVrCmv",
+        "type": [
+            "SpecificResource",
+            "crm:E73_Information_Object"
+        ],
+        "source": {
+            "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+            "type": "crm:D1_Digital_Object",
+            "format": "application/tei+xml",
+            "language": "en",
+            "P1_is_identified_by": {
+                "id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml/title",
+                "type": "crm:E33_E41_Linguistic_Appellation",
+                "title": "WWaW_Atwood-Intro"
+            }
+        },
+        "selector": [
+            {
+                "id": "/target/BK5P6gVrCmv/selector/textPosition/7Asdtrh5531",
+                "type": [
+                    "TextPositionSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "start": 14227,
+                "end": 14241,
+                "refinedBy": {
+                    "id": "/target/BK5P6gVrCmv/selector/textQuote/czeaJBBznph",
+                    "type": [
+                        "TextQuoteSelector",
+                        "crm:E33_Linguistic_Object"
+                    ],
+                    "exact": "no Alice Munro",
+                    "prefix": " Thus, although there are writers\n\t\t\t\t\tfrom the United States, Ireland, England, Denmark, and South\n\t\t\t\t\tAfrica, there are none here from, for instance, India or Australia\n\t\t\t\t\tor Canada or Latin America:",
+                    "suffix": " no Anita Desai,\n\t\t\t\t\tno Isabel Allende"
+                }
+            },
+            {
+                "id": "/target/BK5P6gVrCmv/selector/css/p4U8NM9kyql",
+                "type": [
+                    "CssSelector",
+                    "crm:E73_Information_Object"
+                ],
+                "value": "[ana~=webannotation:http://temp.lincsproject.ca/Ye4EqIrTpFl]"
+            }
+        ]
+    },
+    "body": {
+        "id": "http://viaf.org/viaf/68944521",
+        "type": "crm:E21_Person",
+        "label": "Munro, Alice, 1931-2024.",
+        "description": "Munro, Alice"
+    },
+    "P2_has_type": [
+        "oa:identifying"
+    ]
+}]]>
+				
+</rdf:Description>
+			
+</rdf:RDF>
+		
+</xenoData>
+	</standOff>
+</TEI>
