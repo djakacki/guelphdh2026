@@ -635,6 +635,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?thing_annotation_20260520123558290",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-05-20T16:35:58.290Z",
+	"dcterms:modified": "2026-05-20T16:35:58.290Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?thing_annotation_20260520123558290#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?thing_annotation_20260520123558290#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/q/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q1222730",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 		
 	
@@ -682,7 +760,7 @@
 					matter and point of view to encompass matters of structure and
 					style: are women really more subjective? do their novels really
 					end with questions? Especially in this age of semiotics, gender-linked analysis may seek to explore attitudes towards language
-					itself. Is there a distinct female écriture? Does the mother-tongue
+					itself. Is there a distinct female <foreign xml:lang="fr">écriture</foreign>? Does the mother-tongue
 					really belong to mothers, or is it yet one more male-shaped institution bent, like foot-binding, on the deformation and hobbling
 					of women? I have had it suggested to me, in all seriousness, that
 					women ought not to write at all, since to do so is to dip one's
@@ -727,13 +805,12 @@
 					you must remember that from my very early days, when
 					this city was scarcely safe from buffaloes, I was in the struggle
 					for equal rights for women. But when we paraded through
-					the catcalls of men and when we chained ourselves to lamp
-					posts to try to get out equality—dear child, we didn't foresee
+					the catcalls of men and <rs key="women's suffrage movement" ref="http://www.wikidata.org/entity/Q1222730">when we chained ourselves to lamp
+					posts</rs> to try to get out equality—dear child, we didn't foresee
 					those female writers. (Pp. 114-115)
 				</q>
             <p>
-					Male writers may suffer grains on their single-minded dedi-
-					cation to their art for reasons of class or race or nationality, but
+					Male writers may suffer grains on their single-minded dedication to their art for reasons of class or race or nationality, but
 					so far no male writer is likely to be asked to sit on a panel addressing
 					itself to the special problems of the male writer, or be expected
 					to support another writer simply because he happens to be a man.
@@ -760,8 +837,7 @@
             <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_05.png" n="5"/>
             <p>
 					Joan Didion is asked the same question in its negative form—
-					"disadvantages" instead of "advantages"—and also focuses on so-
-					cial differences, social acceptance and role:
+					"disadvantages" instead of "advantages"—and also focuses on social differences, social acceptance and role:
 				</p>
             <p>
 					When I was starting to write—in the late fifties, early
