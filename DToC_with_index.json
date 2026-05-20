@@ -2,7 +2,7 @@
     "editionTitle": "Inferno Canto IV",
     "editionSubtitle": "Sample DToC",
     "ignoreNamespace": true,
-    "documents": "//div[@type='canto']",
+    "documents": "//div[@type='essay']",
     "documentContent": "",
     "documentTitle": "head",
     "documentAuthor": "",
@@ -11,7 +11,7 @@
     "documentNotes": "",
     "documentLinks": "",
     "inputs": [
-        "https://raw.githubusercontent.com/LEAF-VRE/guelphdh2026/refs/heads/main/WWaW_Atwood-Intro.xml",
+        "https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaW_Atwood-Intro.xml",
         "https://raw.githubusercontent.com/LEAF-VRE/guelph2026/refs/heads/main/index_template.xml"
     ],
     "curation": {
