@@ -3871,6 +3871,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-05-21T11:58:45.723Z",
+	"dcterms:modified": "2026-05-21T11:58:45.723Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[29]/title"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "bf:Title",
+		"@id": "http://www.wikidata.org/entity/Q3988628",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 		
 	
@@ -4134,8 +4213,7 @@
 					energy and time, so resistant to all efforts to define its essence or
 					to categorize its best effects, is bound to be an edgy one, and in
 					these conversations the edginess shows through. Some disclaim
-					ego, remarkable in a collection of such strong, assertive, individ-
-					ual voices; others keep secrets; others fence with their considerable
+					ego, remarkable in a collection of such strong, assertive, individual voices; others keep secrets; others fence with their considerable
 					intelligence; others protect themselves with wit. Some recom-
 					mend objectivity, <persName key="Mary McCarthy" ref="http://www.wikidata.org/entity/Q268147">McCarthy</persName>'s "sense"; others, like <persName key="Edna O'Brien" ref="http://www.wikidata.org/entity/Q178225">Edna O'Brien</persName>,
 					speak of necessary demons. It would be a brave person who would
@@ -4147,7 +4225,7 @@
             <p>
 					This is not the only collection of such writers that could be
 					made. It is limited in scope by the writers actually interviewed
-					to date by The Paris Review. Thus, although there are writers
+					to date by <title key="The Paris Review" ref="http://www.wikidata.org/entity/Q3988628">The Paris Review</title>. Thus, although there are writers
 					from the United States, Ireland, England, Denmark, and South
 					Africa, there are none here from, fo<persName/>r instance, India or Australia
 					or Canada or Latin America: no <persName key="Alice Munro" ref="http://www.wikidata.org/entity/Q234819">Alice Munro</persName>, no Anita <persName/>Desai,
