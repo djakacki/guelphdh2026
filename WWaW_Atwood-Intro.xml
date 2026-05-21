@@ -282,6 +282,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T15:08:21.119Z",
+	"dcterms:modified": "2026-05-21T17:09:55.236Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -313,7 +314,7 @@
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://viaf.org/viaf/17226855",
+		"@id": "http://www.wikidata.org/entity/Q79759",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -4503,7 +4504,7 @@
 				</p>
             
             <p>
-					ferently when viewed by the daughters of Eve, and with <persName key="Milton, John, 1608-1674." ref="http://viaf.org/viaf/17226855" ana="webannotation:http://temp.lincsproject.ca/80kfuzKFLrX">Milton</persName>'s
+					ferently when viewed by the daughters of Eve, and with <persName key="John Milton" ref="http://www.wikidata.org/entity/Q79759" ana="webannotation:http://temp.lincsproject.ca/80kfuzKFLrX">Milton</persName>'s
 					browbeaten secretarial daughters in mind; and so on down
 					through the canon.
 				</p>
