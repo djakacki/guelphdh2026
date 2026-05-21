@@ -3382,7 +3382,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075151757#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName"
+			"rdf:value": "TEI/text/body/div/p[29]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3756,7 +3756,7 @@
 					made. It is limited in scope by the writers actually interviewed
 					to date by The Paris Review. Thus, although there are writers
 					from the United States, Ireland, England, Denmark, and South
-					Africa, there are none here from, for instance, India or Australia
+					Africa, there are none here from, fo<persName/>r instance, India or Australia
 					or Canada or Latin America: no <persName key="Alice Munro" ref="http://www.wikidata.org/entity/Q234819">Alice Munro</persName>, no Anita <persName/>Desai,
 					no Isabel Allende. As this assemblage is unisexual, so is it uni-
 					colored: thus far no Toni Morrison, no Alice Walker, no Louise
