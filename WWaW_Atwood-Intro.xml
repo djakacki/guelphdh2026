@@ -2405,10 +2405,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?thing_annotation_20260521073417599",
+	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-05-21T11:34:17.599Z",
-	"dcterms:modified": "2026-05-21T11:34:17.599Z",
+	"dcterms:created": "2026-05-21T11:40:10.975Z",
+	"dcterms:modified": "2026-05-21T11:40:10.975Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2419,7 +2419,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?thing_annotation_20260521073417599#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
@@ -2433,14 +2433,14 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?thing_annotation_20260521073417599#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/q/rs"
+			"rdf:value": "TEI/text/body/div/p[5]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
-		"@type": "owl:Thing",
-		"@id": "http://www.wikidata.org/entity/Q1222730",
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q3395844",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2484,10 +2484,10 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975",
+	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074156779",
 	"type": "oa:Annotation",
-	"dcterms:created": "2026-05-21T11:40:10.975Z",
-	"dcterms:modified": "2026-05-21T11:40:10.975Z",
+	"dcterms:created": "2026-05-21T11:41:56.779Z",
+	"dcterms:modified": "2026-05-21T11:41:56.779Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2498,7 +2498,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975#Target",
+		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074156779#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
@@ -2512,14 +2512,14 @@
 			"schema:softwareVersion": "4.2.0"
 		},
 		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975#Selector",
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074156779#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[5]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[5]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
 		"@type": "cwrc:NaturalPerson",
-		"@id": "http://www.wikidata.org/entity/Q3395844",
+		"@id": "http://www.wikidata.org/entity/Q448399",
 		"dc:format": "text/plain"
 	},
 	"as:generator": {
@@ -2599,7 +2599,7 @@
 					were male, with a woman dotted here and there for decorative
 					effect, like parsley. <persName key="Jan Morris" ref="http://www.wikidata.org/entity/Q3395844">Jan Morris</persName> said that she was in the process of
 					transcending gender and was aiming at becoming a horse, to
-					which Nayantara Sahgal replied that she hoped it was an English
+					which <persName key="Nayantara Sahgal" ref="http://www.wikidata.org/entity/Q448399">Nayantara Sahgal</persName> replied that she hoped it was an English
 					horse, since in some other, poorer countries, horses were not
 					treated very well. Which underlined, for all of us, that there are
 					categories other than male and female worth considering.
@@ -2624,8 +2624,7 @@
 					you must remember that from my very early days, when
 					this city was scarcely safe from buffaloes, I was in the struggle
 					for equal rights for women. But when we paraded through
-					the catcalls of men and <rs key="women's suffrage movement" ref="http://www.wikidata.org/entity/Q1222730">when we chained ourselves to lamp
-					posts</rs> to try to get out equality—dear child, we didn't foresee
+					the catcalls of men and when we chained ourselves to lamp posts to try to get out equality—dear child, we didn't foresee
 					those female writers. (Pp. 114-115)
 				</q>
             <p>
