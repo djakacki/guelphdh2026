@@ -3277,7 +3277,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[24]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[23]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3355,7 +3355,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075151757#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3434,7 +3434,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075213805#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[24]/persName"
+			"rdf:value": "TEI/text/body/div/p[23]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3512,7 +3512,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075418953#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName"
+			"rdf:value": "TEI/text/body/div/p[27]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3590,7 +3590,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075554901#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName"
+			"rdf:value": "TEI/text/body/div/p[26]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3668,7 +3668,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075614538#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[27]/persName"
+			"rdf:value": "TEI/text/body/div/q[3]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3746,7 +3746,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075720553#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[26]/persName"
+			"rdf:value": "TEI/text/body/div/p[25]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3824,7 +3824,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521090457985#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[6]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -3902,7 +3902,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/title"
+			"rdf:value": "TEI/text/body/div/p[24]/title"
 		}
 	},
 	"oa:hasBody": {
@@ -3980,7 +3980,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075907934#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -4058,7 +4058,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080038905#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -4136,7 +4136,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080114314#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -4214,7 +4214,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082051879#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[7]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -4292,7 +4292,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082119567#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[8]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -4370,7 +4370,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082133885#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[9]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -4448,7 +4448,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082204585#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[10]"
+			"rdf:value": "TEI/text/body/div/p[24]/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -4695,11 +4695,7 @@
 					by the intensity of this passion: the commitment to craft, the
 					informed admiration for the work of other writers from whom
 					they have learned, the insistence on the importance, not of what
-					they themselves have done, but on what has been and can be
-				</p>
-            
-            <p>
-					done through the art itself. In no other art, except painting,
+					they themselves have done, but on what has been and can be done through the art itself. In no other art, except painting,
 					perhaps, is the relationship of creation to creator so complex and
 					personal and thus so potentially damaging to self-esteem: if you
 					fail, you fail alone. The dancer realize someone else's dance,
@@ -4715,8 +4711,7 @@
 					try to stuff these wonderful and various talents into one tidy box
 					labelled “WW,” and expect that acronym to be definitive. Despite
 					the title of this book, the lab I should probably read, “WWAAW,"
-					Writers Who Are Also Women.
-				</p>
+					Writers Who Are Also Women.</p>
             <p>
 					This is not the only collection of such writers that could be
 					made. It is limited in scope by the writers actually interviewed
@@ -4744,12 +4739,12 @@
 					of thankfulness, of humility in the face of what has been given.
 					From <persName key="Joyce Carol Oates" ref="http://www.wikidata.org/entity/Q217557">Joyce Carol Oates</persName>, one of the youngest writers in this group:
 				</p>
-            <p>
+            <q>
 					I take seriously <persName key="Gustave Flaubert" ref="http://www.wikidata.org/entity/Q43444">Flaubert</persName>'s statement must love
 					one another in our art as the mystics love another in
 					God. By honoring one another's creation we honor something that deeply connected us all, and beyond us
 					(Pp. 383-384)
-				</p>
+				</q>
             <p>
 					And from <persName key="Dorothy Parker" ref="http://www.wikidata.org/entity/Q270707">Dorothy Parker</persName>, one of the oldest:
 				</p>
