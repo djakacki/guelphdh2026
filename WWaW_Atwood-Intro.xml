@@ -309,7 +309,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520110821119#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[3]/persName"
+			"rdf:value": "TEI/text/body/div/p[2]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -361,6 +361,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124453201",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T16:44:53.201Z",
+	"dcterms:modified": "2026-05-20T16:44:53.201Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -387,7 +388,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124453201#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[5]/persName"
+			"rdf:value": "TEI/text/body/div/p[4]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -439,6 +440,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124542159",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T16:45:42.159Z",
+	"dcterms:modified": "2026-05-20T16:45:42.159Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -465,7 +467,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124542159#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[5]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[4]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -751,6 +753,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124251060",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-20T16:42:51.060Z",
+	"dcterms:modified": "2026-05-20T16:42:51.060Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -777,7 +780,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260520124251060#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[5]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[4]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -855,7 +858,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417594#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[6]/persName"
+			"rdf:value": "TEI/text/body/div/p[5]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -933,7 +936,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[8]/persName"
+			"rdf:value": "TEI/text/body/div/p[7]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1011,7 +1014,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[8]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[7]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1089,7 +1092,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[8]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[7]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1167,7 +1170,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[9]/persName"
+			"rdf:value": "TEI/text/body/div/p[8]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1245,7 +1248,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/persName"
+			"rdf:value": "TEI/text/body/div/p[9]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1323,7 +1326,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[9]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1401,7 +1404,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[9]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1479,7 +1482,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[11]/persName"
+			"rdf:value": "TEI/text/body/div/p[10]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1557,7 +1560,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[12]/persName"
+			"rdf:value": "TEI/text/body/div/p[11]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1635,7 +1638,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[12]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[11]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1713,7 +1716,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[13]/persName"
+			"rdf:value": "TEI/text/body/div/p[11]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1791,7 +1794,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[16]/persName"
+			"rdf:value": "TEI/text/body/div/p[14]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1869,7 +1872,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[16]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[14]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1947,7 +1950,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[18]/persName"
+			"rdf:value": "TEI/text/body/div/p[16]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -2025,7 +2028,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[18]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[16]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -2103,7 +2106,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[18]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[16]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -2181,7 +2184,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[18]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[16]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -2260,7 +2263,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417599#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[18]/persName[6]"
+			"rdf:value": "TEI/text/body/div/p[16]/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -2338,7 +2341,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521073417599#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/placeName"
+			"rdf:value": "TEI/text/body/div/p[9]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2390,7 +2393,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:40:10.975Z",
-	"dcterms:modified": "2026-05-21T11:40:10.975Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2417,7 +2419,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074010975#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[5]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[4]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -2469,7 +2471,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074156779",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:41:56.779Z",
-	"dcterms:modified": "2026-05-21T11:41:56.779Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2496,7 +2497,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074156779#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[5]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[4]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -2574,7 +2575,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074320490#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/placeName[2]"
+			"rdf:value": "TEI/text/body/div/p[9]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -2652,7 +2653,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074404347#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[11]/placeName"
+			"rdf:value": "TEI/text/body/div/p[10]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2730,7 +2731,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074427847#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[16]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[14]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -2808,7 +2809,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074624472#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[18]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[16]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -2886,7 +2887,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074645237#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[21]/persName"
+			"rdf:value": "TEI/text/body/div/p[19]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -2964,7 +2965,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074719622#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[22]/persName"
+			"rdf:value": "TEI/text/body/div/p[20]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3042,7 +3043,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074734186#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName"
+			"rdf:value": "TEI/text/body/div/p[23]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3120,7 +3121,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074819576#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[23]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3198,7 +3199,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[25]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[23]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -3276,7 +3277,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[27]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[25]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3354,7 +3355,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075151757#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3433,7 +3434,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075213805#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[27]/persName"
+			"rdf:value": "TEI/text/body/div/p[25]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3511,7 +3512,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075418953#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[32]/persName"
+			"rdf:value": "TEI/text/body/div/p[30]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3589,7 +3590,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075554901#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[31]/persName"
+			"rdf:value": "TEI/text/body/div/p[29]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3667,7 +3668,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075614538#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[30]/persName"
+			"rdf:value": "TEI/text/body/div/p[28]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3745,7 +3746,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075720553#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName"
+			"rdf:value": "TEI/text/body/div/p[27]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3823,7 +3824,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521090457985#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[6]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -3901,7 +3902,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/title"
+			"rdf:value": "TEI/text/body/div/p[26]/title"
 		}
 	},
 	"oa:hasBody": {
@@ -3979,7 +3980,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075907934#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -4057,7 +4058,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080038905#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -4135,7 +4136,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080114314#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -4213,7 +4214,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082051879#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[7]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -4291,7 +4292,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082119567#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[8]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -4369,7 +4370,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082133885#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[9]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -4447,7 +4448,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082204585#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[10]"
+			"rdf:value": "TEI/text/body/div/p[26]/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -4500,14 +4501,9 @@
 					romantic hero; for many men, he is a posturing oaf they'd like
 					to punch in the nose. For many men, The Ginger Man's Sebastian
 					Dangerfield is an energy-packed rebel; for many women, he is
-					an immature and tiresome wife-beater. <title key="Paradise Lost" ref="http://www.wikidata.org/entity/Q28754" ana="webannotation:http://temp.lincsproject.ca/xsVu0OhdvL6">Paradise Lost</title> reads dif-
-				</p>
-            
-            <p>
-					ferently when viewed by the daughters of Eve, and with <persName key="John Milton" ref="http://www.wikidata.org/entity/Q79759" ana="webannotation:http://temp.lincsproject.ca/80kfuzKFLrX">Milton</persName>'s
+					an immature and tiresome wife-beater. <title key="Paradise Lost" ref="http://www.wikidata.org/entity/Q28754" ana="webannotation:http://temp.lincsproject.ca/xsVu0OhdvL6">Paradise Lost</title> reads differently when viewed by the daughters of Eve, and with <persName key="John Milton" ref="http://www.wikidata.org/entity/Q79759" ana="webannotation:http://temp.lincsproject.ca/80kfuzKFLrX">Milton</persName>'s
 					browbeaten secretarial daughters in mind; and so on down
-					through the canon.
-				</p>
+					through the canon.</p>
             <p>
 					Such gender-polarized analyses can reach beyond subject-
 					matter and point of view to encompass matters of structure and
@@ -4621,12 +4617,7 @@
 					writing as a male preserve has been the image of women writers
 					as lightweight puffballs, neurotic freaks suffering from what <persName key="Edna O'Brien" ref="http://www.wikidata.org/entity/Q178225">Edna
 					O'Brien</persName> calls "a double dose of masochism: the masochisim of
-					the woman and that of the artist" (p. 342), or, if approved of, as
-				</p>
-            
-            <p>
-					honorary men. Femininity and excellence, it seemed, were mutually exclusive. Thus <persName key="Katherine Anne Porter" ref="http://www.wikidata.org/entity/Q236958" ana="webannotation:http://temp.lincsproject.ca/ZWDm0bsxKBV">Katherine Anne Porter</persName>:
-				</p>
+					the woman and that of the artist" (p. 342), or, if approved of, as honorary men. Femininity and excellence, it seemed, were mutually exclusive. Thus <persName key="Katherine Anne Porter" ref="http://www.wikidata.org/entity/Q236958" ana="webannotation:http://temp.lincsproject.ca/ZWDm0bsxKBV">Katherine Anne Porter</persName>:</p>
             <p>
 					<q xml:id="kap01">If there is such a thing as a man's mind and a woman's mind—and I'm sure there is—it isn't what most critics mean when they talk about the two. If I show wisdom, they say I have a masculine mind. If I am silly and irrelevant—and Edmund Wilson says I often am—why then they say I have a typically feminine mind!... But I haven't ever found it unnatural to be a woman. </q>(P. 65)
 				</p>
