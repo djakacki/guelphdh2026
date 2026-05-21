@@ -3303,7 +3303,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3586,7 +3586,7 @@
 					ego, remarkable in a collection of such strong, assertive, individ-
 					ual voices; others keep secrets; others fence with their considerable
 					intelligence; others protect themselves with wit. Some recom-
-					mend objectivity, McCarthy's "sense"; others, like <persName key="Edna O'Brien" ref="http://www.wikidata.org/entity/Q178225">Edna O'Brien</persName>,
+					mend objectivity, <persName>McCarthy</persName>'s "sense"; others, like <persName key="Edna O'Brien" ref="http://www.wikidata.org/entity/Q178225">Edna O'Brien</persName>,
 					speak of necessary demons. It would be a brave person who would
 					try to stuff these wonderful and various talents into one tidy box
 					labelled “WW,” and expect that acronym to be definitive. Despite
