@@ -828,7 +828,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417594",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.594Z",
-	"dcterms:modified": "2026-05-21T11:34:17.594Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -855,7 +854,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417594#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[7]/persName"
+			"rdf:value": "TEI/text/body/div/p[6]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -907,7 +906,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.595Z",
-	"dcterms:modified": "2026-05-21T11:34:17.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -934,7 +932,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[9]/persName"
+			"rdf:value": "TEI/text/body/div/p[8]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -986,7 +984,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.595Z",
-	"dcterms:modified": "2026-05-21T11:34:17.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1013,7 +1010,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[9]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[8]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1065,7 +1062,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.595Z",
-	"dcterms:modified": "2026-05-21T11:34:17.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1092,7 +1088,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[9]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[8]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1144,7 +1140,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.595Z",
-	"dcterms:modified": "2026-05-21T11:34:17.595Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1171,7 +1166,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417595#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[10]/persName"
+			"rdf:value": "TEI/text/body/div/p[9]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1223,7 +1218,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.596Z",
-	"dcterms:modified": "2026-05-21T11:34:17.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1250,7 +1244,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[11]/persName"
+			"rdf:value": "TEI/text/body/div/p[10]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1302,7 +1296,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.596Z",
-	"dcterms:modified": "2026-05-21T11:34:17.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1329,7 +1322,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[11]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[10]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1381,7 +1374,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.596Z",
-	"dcterms:modified": "2026-05-21T11:34:17.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1408,7 +1400,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[11]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[10]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -1460,7 +1452,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.596Z",
-	"dcterms:modified": "2026-05-21T11:34:17.596Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1487,7 +1478,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417596#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[12]/persName"
+			"rdf:value": "TEI/text/body/div/p[11]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1539,7 +1530,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.597Z",
-	"dcterms:modified": "2026-05-21T11:34:17.597Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1566,7 +1556,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[13]/persName"
+			"rdf:value": "TEI/text/body/div/p[12]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1618,7 +1608,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.597Z",
-	"dcterms:modified": "2026-05-21T11:34:17.597Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1645,7 +1634,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[13]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[12]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1697,7 +1686,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.597Z",
-	"dcterms:modified": "2026-05-21T11:34:17.597Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1724,7 +1712,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[14]/persName"
+			"rdf:value": "TEI/text/body/div/p[13]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1776,7 +1764,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.597Z",
-	"dcterms:modified": "2026-05-21T11:34:17.597Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1803,7 +1790,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417597#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[17]/persName"
+			"rdf:value": "TEI/text/body/div/p[16]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -1855,7 +1842,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1882,7 +1868,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[17]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[16]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1934,7 +1920,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -1961,7 +1946,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[19]/persName"
+			"rdf:value": "TEI/text/body/div/p[18]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -2013,7 +1998,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2040,7 +2024,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[19]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[18]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -2092,7 +2076,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2119,7 +2102,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[19]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[18]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -2171,7 +2154,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.598Z",
-	"dcterms:modified": "2026-05-21T11:34:17.598Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2198,7 +2180,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417598#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[19]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[18]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -2250,6 +2232,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417599",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.599Z",
+	"dcterms:modified": "2026-05-21T11:34:17.599Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2276,7 +2259,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521073417599#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[19]/persName[6]"
+			"rdf:value": "TEI/text/body/div/p[18]/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -2328,7 +2311,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521073417599",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:34:17.599Z",
-	"dcterms:modified": "2026-05-21T11:34:17.599Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2355,7 +2337,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521073417599#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[11]/placeName"
+			"rdf:value": "TEI/text/body/div/p[10]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2565,7 +2547,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074320490",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:43:20.490Z",
-	"dcterms:modified": "2026-05-21T11:43:20.490Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2592,7 +2573,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074320490#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[11]/placeName[2]"
+			"rdf:value": "TEI/text/body/div/p[10]/placeName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -2644,7 +2625,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074404347",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:44:04.347Z",
-	"dcterms:modified": "2026-05-21T11:44:04.347Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2671,7 +2651,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?place_annotation_20260521074404347#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[12]/placeName"
+			"rdf:value": "TEI/text/body/div/p[11]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -2723,7 +2703,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074427847",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:44:27.847Z",
-	"dcterms:modified": "2026-05-21T11:44:27.847Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2750,7 +2729,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074427847#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[17]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[16]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -2802,7 +2781,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074624472",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:46:24.472Z",
-	"dcterms:modified": "2026-05-21T11:46:24.472Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2829,7 +2807,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074624472#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[19]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[18]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -2881,7 +2859,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074645237",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:46:45.237Z",
-	"dcterms:modified": "2026-05-21T11:46:45.237Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2908,7 +2885,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074645237#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[22]/persName"
+			"rdf:value": "TEI/text/body/div/p[21]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -2960,7 +2937,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074719622",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:47:19.622Z",
-	"dcterms:modified": "2026-05-21T11:47:19.622Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -2987,7 +2963,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074719622#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[23]/persName"
+			"rdf:value": "TEI/text/body/div/p[22]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3039,7 +3015,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074734186",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:47:34.186Z",
-	"dcterms:modified": "2026-05-21T11:47:34.186Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3066,7 +3041,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074734186#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[26]/persName"
+			"rdf:value": "TEI/text/body/div/p[25]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3118,7 +3093,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074819576",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:48:19.576Z",
-	"dcterms:modified": "2026-05-21T11:48:19.576Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3145,7 +3119,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074819576#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[26]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[25]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3197,7 +3171,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:49:45.459Z",
-	"dcterms:modified": "2026-05-21T11:49:45.459Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3224,7 +3197,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[26]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[25]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -3276,7 +3249,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:50:06.090Z",
-	"dcterms:modified": "2026-05-21T11:50:06.090Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3303,7 +3275,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[27]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3355,7 +3327,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075151757",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:51:51.757Z",
-	"dcterms:modified": "2026-05-21T11:51:51.757Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3382,7 +3353,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075151757#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[2]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -3434,6 +3405,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075213805",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:52:13.805Z",
+	"dcterms:modified": "2026-05-21T11:52:13.805Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3460,7 +3432,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075213805#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[28]/persName"
+			"rdf:value": "TEI/text/body/div/p[27]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3512,7 +3484,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075418953",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:54:18.953Z",
-	"dcterms:modified": "2026-05-21T11:54:18.953Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3539,7 +3510,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075418953#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[33]/persName"
+			"rdf:value": "TEI/text/body/div/p[32]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3591,7 +3562,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075554901",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:55:54.901Z",
-	"dcterms:modified": "2026-05-21T11:55:54.901Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3618,7 +3588,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075554901#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[32]/persName"
+			"rdf:value": "TEI/text/body/div/p[31]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3670,7 +3640,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075614538",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:56:14.538Z",
-	"dcterms:modified": "2026-05-21T11:56:14.538Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3697,7 +3666,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075614538#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[31]/persName"
+			"rdf:value": "TEI/text/body/div/p[30]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3749,7 +3718,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075720553",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:57:20.553Z",
-	"dcterms:modified": "2026-05-21T11:57:20.553Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3776,7 +3744,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075720553#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[30]/persName"
+			"rdf:value": "TEI/text/body/div/p[29]/persName"
 		}
 	},
 	"oa:hasBody": {
@@ -3854,7 +3822,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521090457985#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[6]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[6]"
 		}
 	},
 	"oa:hasBody": {
@@ -3906,7 +3874,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:58:45.723Z",
-	"dcterms:modified": "2026-05-21T11:58:45.723Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3933,7 +3900,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?work_annotation_20260521075845723#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/title"
+			"rdf:value": "TEI/text/body/div/p[28]/title"
 		}
 	},
 	"oa:hasBody": {
@@ -3985,7 +3952,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075907934",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:59:07.934Z",
-	"dcterms:modified": "2026-05-21T11:59:07.934Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4012,7 +3978,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075907934#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[3]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[3]"
 		}
 	},
 	"oa:hasBody": {
@@ -4064,7 +4030,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080038905",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:00:38.905Z",
-	"dcterms:modified": "2026-05-21T12:00:38.905Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4091,7 +4056,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080038905#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[4]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[4]"
 		}
 	},
 	"oa:hasBody": {
@@ -4143,7 +4108,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080114314",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:01:14.314Z",
-	"dcterms:modified": "2026-05-21T12:01:14.314Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4170,7 +4134,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521080114314#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[5]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[5]"
 		}
 	},
 	"oa:hasBody": {
@@ -4222,7 +4186,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082051879",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:20:51.879Z",
-	"dcterms:modified": "2026-05-21T12:20:51.879Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4249,7 +4212,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082051879#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[7]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[7]"
 		}
 	},
 	"oa:hasBody": {
@@ -4301,7 +4264,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082119567",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:21:19.567Z",
-	"dcterms:modified": "2026-05-21T12:21:19.567Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4328,7 +4290,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082119567#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[8]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[8]"
 		}
 	},
 	"oa:hasBody": {
@@ -4380,7 +4342,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082133885",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:21:33.885Z",
-	"dcterms:modified": "2026-05-21T12:21:33.885Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4407,7 +4368,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082133885#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[9]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[9]"
 		}
 	},
 	"oa:hasBody": {
@@ -4459,7 +4420,6 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082204585",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T12:22:04.585Z",
-	"dcterms:modified": "2026-05-21T12:22:04.585Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -4486,7 +4446,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521082204585#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/p[29]/persName[10]"
+			"rdf:value": "TEI/text/body/div/p[28]/persName[10]"
 		}
 	},
 	"oa:hasBody": {
@@ -4583,15 +4543,9 @@
 					to be overlooked and undervalued for being a woman, but few,
 					it seems, wish to be defined solely by gender, or constrained by
 					loyalties to it alone—an attitude which may puzzle, hurt or enrage
-					those whose political priorities cause them to view writing as a
-				</p>
-				
-            
-            <p>
-					tool, a means towards an end, rather than as a Muse who will
+					those whose political priorities cause them to view writing as a tool, a means towards an end, rather than as a Muse who will
 					desert you if you break trust. In the interview which begins this
-					collection. <persName key="Dorothy Parker" ref="http://www.wikidata.org/entity/Q270707">Dorothy Parker</persName> articulates the dilemma:
-				</p>
+					collection. <persName key="Dorothy Parker" ref="http://www.wikidata.org/entity/Q270707">Dorothy Parker</persName> articulates the dilemma: </p>
             <q>
 					I'm a feminist, and God knows I'm loyal to my sex, and
 					you must remember that from my very early days, when
