@@ -3829,7 +3829,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075729997",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:57:29.997Z",
-	"dcterms:modified": "2026-05-21T11:57:29.997Z",
+	"dcterms:modified": "2026-05-21T13:04:57.985Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3860,7 +3860,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q271931",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4511,7 +4513,7 @@
          <div type="essay">
 			 <head><title>Introduction</title></head>
             
-            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_02.png" n="2"/>
+            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_02.png"/>
          	
             <p>
 					
@@ -4586,7 +4588,7 @@
 					those whose political priorities cause them to view writing as a
 				</p>
 				
-            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_04.png" n="4"/>
+            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_04.png"/>
             <p>
 					tool, a means towards an end, rather than as a Muse who will
 					desert you if you break trust. In the interview which begins this
@@ -4625,7 +4627,7 @@
 					sort of male critics who rank writers 1, 2. 3 in the public
 					press. I am free, I suppose, to do as I like. (P. 382)
 				</q>
-            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_05.png" n="5"/>
+            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_05.png"/>
             <p>
 					<persName key="Joan Didion" ref="http://www.wikidata.org/entity/Q267691">Joan Didion</persName> is asked the same question in its negative form—
 					"disadvantages" instead of "advantages"—and also focuses on social differences, social acceptance and role:
@@ -4668,7 +4670,7 @@
 					O'Brien</persName> calls "a double dose of masochism: the masochisim of
 					the woman and that of the artist" (p. 342), or, if approved of, as
 				</p>
-            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_06.png" n="6"/>
+            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_06.png"/>
             <p>
 					honorary men. Femininity and excellence, it seemed, were mutually exclusive. Thus <persName key="Katherine Anne Porter" ref="http://www.wikidata.org/entity/Q236958" ana="webannotation:http://temp.lincsproject.ca/ZWDm0bsxKBV">Katherine Anne Porter</persName>:
 				</p>
@@ -4710,7 +4712,7 @@
             <p>
 					MCCARTHY: I think they become interested in décor. You
 				</p>
-            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_07.png" n="7"/>
+            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_07.png"/>
             <p>
 					notice the change in <persName key="Elizabeth Bowen" ref="http://www.wikidata.org/entity/Q235308">Elizabeth Bowen</persName>. Her early work is
 					much more masculine. Her later work has much more
@@ -4756,7 +4758,7 @@
 					they have learned, the insistence on the importance, not of what
 					they themselves have done, but on what has been and can be
 				</p>
-            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_08.png" n="8"/>
+            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_08.png"/>
             <p>
 					done through the art itself. In no other art, except painting,
 					perhaps, is the relationship of creation to creator so complex and
@@ -4786,7 +4788,7 @@
 					no <persName key="Isabel Allende" ref="http://www.wikidata.org/entity/Q83566">Isabel Allende</persName>. As this assemblage is unisexual, so is it uni-colored: thus far no <persName key="Toni Morrison" ref="http://www.wikidata.org/entity/Q72334">Toni Morrison</persName>, no Alice Walker, no Louise
 					Erdrich. Nor are there many writers who are known for an explicit
 					and self-aware examination of the more colonial features of the
-					relationships between men as a group and women: no <persName>Marilyn French</persName>, no <persName key="Marge Piercey" ref="https://www.wikidata.org/wiki/Q273385">Marge Piercey</persName>, no <persName key="Fay Weldon" ref="https://www.wikidata.org/wiki/Q239501">Fay Weldon</persName>, no <persName key="Adrienne Rich" ref="http://www.wikidata.org/entity/Q270705">Adrienne Rich</persName>,
+					relationships between men as a group and women: no <persName key="Marilyn French" ref="http://www.wikidata.org/entity/Q271931">Marilyn French</persName>, no <persName key="Marge Piercey" ref="https://www.wikidata.org/wiki/Q273385">Marge Piercey</persName>, no <persName key="Fay Weldon" ref="https://www.wikidata.org/wiki/Q239501">Fay Weldon</persName>, no <persName key="Adrienne Rich" ref="http://www.wikidata.org/entity/Q270705">Adrienne Rich</persName>,
 					no <persName key="Judith Rossner" ref="https://www.wikidata.org/wiki/Q10312711">Judith Rossner</persName>. Some of these omissions may be set down to
 					the slowness characteristic of the mills of the gods and the editor
 					of small magazines, a slowness which may account, too, for the
@@ -4794,7 +4796,7 @@
 					territory to see what has been done and, especially, said before,
 					is, in the case of writing, part of the territory.
 				</p>
-            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_09.png" n="9"/>
+            <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_09.png"/>
             <p>
 					To write is a solitary and singular act; to do it superbly, as all
 					of these writers have done, is a blessing. Despite everything that
