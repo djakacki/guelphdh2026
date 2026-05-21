@@ -3162,6 +3162,164 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-05-21T11:49:45.459Z",
+	"dcterms:modified": "2026-05-21T11:49:45.459Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521074945459#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[26]/persName[3]"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q40909",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.2.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090",
+	"type": "oa:Annotation",
+	"dcterms:created": "2026-05-21T11:50:06.090Z",
+	"dcterms:modified": "2026-05-21T11:50:06.090Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/djakacki",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Diane Jakacki"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "4.2.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075006090#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/p[28]/persName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q178225",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "4.2.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
 		
 	
@@ -3395,12 +3553,11 @@
 				</p>
             <p>
 					<persName key="Cynthia Ozick" ref="http://www.wikidata.org/entity/Q444849">Cynthia Ozick</persName> also says that the biographers of <persName key="Edith Wharton" ref="http://www.wikidata.org/entity/Q276032">Wharton</persName> and
-					Woolf "missed the writer" in their subjects, and this is probably
+					<persName key="Virginia Woolf" ref="http://www.wikidata.org/entity/Q40909">Woolf</persName> "missed the writer" in their subjects, and this is probably
 					easier to do with women than with men. There is, still, a sort of
 					trained-dog fascination with the idea of women writers—not that
 					the thing is done well, but that it is done at all, by a creature
-					that is not supposed to possess such capabilities. And so a biog-
-					rapher may well focus on the woman, on gossip and sexual detail
+					that is not supposed to possess such capabilities. And so a biographer may well focus on the woman, on gossip and sexual detail
 					and domestic arrangements and political involvement, to the ex-
 					clusion of the artist. But it is impossible to read any of the in-
 					terviews in this book and "miss the writer." What these writers
@@ -3429,7 +3586,7 @@
 					ego, remarkable in a collection of such strong, assertive, individ-
 					ual voices; others keep secrets; others fence with their considerable
 					intelligence; others protect themselves with wit. Some recom-
-					mend objectivity, McCarthy's "sense"; others, like Edna O'Brien,
+					mend objectivity, McCarthy's "sense"; others, like <persName key="Edna O'Brien" ref="http://www.wikidata.org/entity/Q178225">Edna O'Brien</persName>,
 					speak of necessary demons. It would be a brave person who would
 					try to stuff these wonderful and various talents into one tidy box
 					labelled “WW,” and expect that acronym to be definitive. Despite
