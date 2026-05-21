@@ -3828,7 +3828,7 @@
 	"id": "https://raw.githubusercontent.com/djakacki/guelphdh2026/main/WWaW_Atwood-Intro.xml?person_annotation_20260521075729997",
 	"type": "oa:Annotation",
 	"dcterms:created": "2026-05-21T11:57:29.997Z",
-	"dcterms:modified": "2026-05-21T11:57:29.997Z",
+	"dcterms:modified": "2026-05-21T13:04:57.985Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/djakacki",
 		"@type": [
@@ -3859,7 +3859,9 @@
 		}
 	},
 	"oa:hasBody": {
-		"@type": "cwrc:NaturalPerson"
+		"@type": "cwrc:NaturalPerson",
+		"@id": "http://www.wikidata.org/entity/Q271931",
+		"dc:format": "text/plain"
 	},
 	"as:generator": {
 		"@id": "https://leaf-writer.leaf-vre.org",
@@ -4507,7 +4509,7 @@
 	
    <text>
       <body>
-         <div type="chapter">
+         <div type="essay">
 			 <head><title>Introduction</title></head>
             
             <pb facs="https://raw.githubusercontent.com/djakacki/guelphdh2026/refs/heads/main/WWaWimages/wwaw_02.png" n="2"/>
@@ -4785,7 +4787,7 @@
 					no <persName key="Isabel Allende" ref="http://www.wikidata.org/entity/Q83566">Isabel Allende</persName>. As this assemblage is unisexual, so is it uni-colored: thus far no <persName key="Toni Morrison" ref="http://www.wikidata.org/entity/Q72334">Toni Morrison</persName>, no Alice Walker, no Louise
 					Erdrich. Nor are there many writers who are known for an explicit
 					and self-aware examination of the more colonial features of the
-					relationships between men as a group and women: no <persName>Marilyn French</persName>, no <persName key="Marge Piercey" ref="https://www.wikidata.org/wiki/Q273385">Marge Piercey</persName>, no <persName key="Fay Weldon" ref="https://www.wikidata.org/wiki/Q239501">Fay Weldon</persName>, no <persName key="Adrienne Rich" ref="http://www.wikidata.org/entity/Q270705">Adrienne Rich</persName>,
+					relationships between men as a group and women: no <persName key="Marilyn French" ref="http://www.wikidata.org/entity/Q271931">Marilyn French</persName>, no <persName key="Marge Piercey" ref="https://www.wikidata.org/wiki/Q273385">Marge Piercey</persName>, no <persName key="Fay Weldon" ref="https://www.wikidata.org/wiki/Q239501">Fay Weldon</persName>, no <persName key="Adrienne Rich" ref="http://www.wikidata.org/entity/Q270705">Adrienne Rich</persName>,
 					no <persName key="Judith Rossner" ref="https://www.wikidata.org/wiki/Q10312711">Judith Rossner</persName>. Some of these omissions may be set down to
 					the slowness characteristic of the mills of the gods and the editor
 					of small magazines, a slowness which may account, too, for the
