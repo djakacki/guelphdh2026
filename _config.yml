@@ -3,13 +3,17 @@ description: "Course materials for the TEI workshop at DH@Guelph, May 2026"
 baseurl: "/guelphdh2026"
 url: "https://djakacki.github.io"
 
-theme: minima
+theme: just-the-docs
 
 plugins:
   - jekyll-seo-tag
+
+just_the_docs:
+  collections:
+    materials:
+      name: "Course Materials"
 
 exclude:
   - Gemfile
   - Gemfile.lock
   - README.md
-  - "*.xml"
