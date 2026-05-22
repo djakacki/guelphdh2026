@@ -1,6 +1,10 @@
 ---
 layout: home
-title: Home
+nav_exclude: true
 ---
 
-Welcome to the TEI course materials for DH@Guelph 2026.
+# DH@Guelph 2026 – TEI Course
+
+Welcome to the course materials for the TEI workshop at DH@Guelph, May 2026.
+
+Use the navigation on the left to browse materials.
