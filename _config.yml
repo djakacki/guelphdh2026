@@ -1,0 +1,15 @@
+title: "DH@Guelph 2026 – TEI Course"
+description: "Course materials for the TEI workshop at DH@Guelph, May 2026"
+baseurl: "/guelphdh2026"
+url: "https://djakacki.github.io"
+
+theme: minima
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - "*.xml"
